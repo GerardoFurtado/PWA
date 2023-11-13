@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/static/js/main.c8d1f5c9.js",
-    "static/js/841.9548a7a5.js": "/static/js/841.9548a7a5.js",
-    "static/media/MaterialCommunityIcons.ttf": "/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
-    "static/media/Ionicons.ttf": "/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
-    "static/media/icon.png": "/static/media/icon.9ee7790ddd0a26cc75b9.png",
-    "static/media/AntDesign.ttf": "/static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
-    "favicon.ico": "/favicon.ico",
-    "index.html": "/index.html",
-    "favicon-32.png": "/favicon-32.png",
-    "favicon-16.png": "/favicon-16.png",
-    "manifest.json": "/manifest.json",
-    "serve.json": "/serve.json",
-    "main.c8d1f5c9.js.map": "/static/js/main.c8d1f5c9.js.map",
-    "841.9548a7a5.js.map": "/static/js/841.9548a7a5.js.map"
+    "main.js": "/PWA/static/js/main.d73fa207.js",
+    "static/js/841.3d7f6ba1.js": "/PWA/static/js/841.3d7f6ba1.js",
+    "static/media/MaterialCommunityIcons.ttf": "/PWA/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "static/media/Ionicons.ttf": "/PWA/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
+    "static/media/icon.png": "/PWA/static/media/icon.9ee7790ddd0a26cc75b9.png",
+    "static/media/AntDesign.ttf": "/PWA/static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
+    "favicon.ico": "/PWA/favicon.ico",
+    "index.html": "/PWA/index.html",
+    "favicon-32.png": "/PWA/favicon-32.png",
+    "favicon-16.png": "/PWA/favicon-16.png",
+    "manifest.json": "/PWA/manifest.json",
+    "serve.json": "/PWA/serve.json",
+    "main.d73fa207.js.map": "/PWA/static/js/main.d73fa207.js.map",
+    "841.3d7f6ba1.js.map": "/PWA/static/js/841.3d7f6ba1.js.map"
   },
   "entrypoints": [
-    "static/js/841.9548a7a5.js",
-    "static/js/main.c8d1f5c9.js"
+    "static/js/841.3d7f6ba1.js",
+    "static/js/main.d73fa207.js"
   ]
 }
